@@ -20,7 +20,7 @@ inquirer
     qr_png.pipe(fs.createWriteStream("qr_png.png"));
 
     // Save the URL to a text file
-    fs.WriteStream("url.txt", url, (err) => {
+    fs.WriteFile("url.txt", url, (err) => {
       if (err) throw err;
       console.log("The File has been saved !");
     });
