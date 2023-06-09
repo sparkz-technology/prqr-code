@@ -8,6 +8,7 @@
   "author": "sutharsan",
   "license": "ISC",
   "description": "",
+  "type": "module",
   "dependencies": {
     "inquirer": "^9.2.7",
     "qr-image": "^3.2.0"
