@@ -1,4 +1,4 @@
-#prqr-code
+# prqr-code
 
 This is a simple Node.js script that generates a QR code image from a URL entered by the user. It also saves the URL to a text file.
 
